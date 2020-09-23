@@ -1,0 +1,20 @@
+.container {
+    float: far-left;
+}
+
+.container row col-sm-12 h1{
+
+    font-size: 14;
+}
+
+
+
+
+.container row col-sm-3 imng{
+    width: 100%;
+    padding: 20ox;
+    float: left;
+    margin: 100px;
+
+}
+
