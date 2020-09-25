@@ -1,6 +1,13 @@
+body {
+    background-color: #cccccc;
+    font-size: 1.2rem;
+   }
+
 .container {
     float: left;
     margin-top: 3rem;
+    margin-left: 0.5rem;
+    
 }
 
 body {
@@ -22,6 +29,21 @@ body {
 
 
 .card-title {
-    margin-bottom: .95rem;
+    margin-bottom: .85rem;
+    color:#20B2AA;
 }
+
+
+img {
+    vertical-align: middle;
+    border: 1px double black;
+    margin-bottom: 7px;
+    max-width: 80%;
+    }
+
+
+    .card {
+        border: 0px;
+        display: inline;
+    }
 
