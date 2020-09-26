@@ -60,17 +60,4 @@ a {
   font-size:1.19rem;
 }
 
-h2{
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color:darkslategray;
-  color: white;
-  text-align: center;
-  clear: both;
-  padding: 0.5rem;
-  font-size: 1.5rem;
-
-}
 
